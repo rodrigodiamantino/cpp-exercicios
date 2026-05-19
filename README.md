@@ -1,7 +1,7 @@
 # Exercício - Struct e Ponteiros em C++
 
 ## 📌 Contexto
-Este projeto foi desenvolvido como exercício acadêmico do **3º semestre** do curso de **Análise e Desenvolvimento de Sistemas **.
+Este projeto foi desenvolvido como exercício acadêmico do **3º semestre** do curso de **Análise e Desenvolvimento de Sistemas]]**.
 
 ---
 
