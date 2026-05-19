@@ -1,37 +1,17 @@
-# Exercício - Struct e Ponteiros em C++
+# C++ - Exercícios da Faculdade
 
-## 📌 Contexto
-Este projeto foi desenvolvido como exercício acadêmico do **3º semestre** do curso de **Análise e Desenvolvimento de Sistemas**.
+Repositório com exercícios desenvolvidos durante o curso de **Análise e Desenvolvimento de Sistemas (ADS)**.
 
----
+## 📚 Disciplina
+Estruturas de Dados (3º semestre)
 
 ## 🎯 Objetivo
-Praticar conceitos fundamentais da linguagem C++, incluindo:
+Praticar conceitos fundamentais de programação em C++, incluindo:
 - Structs
 - Ponteiros
 - Funções
 - Vetores
-- Estruturas de repetição e menu com switch-case
+- Estruturas de repetição
 
----
-
-## 🧠 Descrição do Problema
-O programa simula o cadastro de colaboradores de uma empresa, permitindo:
-- Inserir dados (nome, idade, sexo e salário)
-- Calcular aumento de 10% no salário
-- Listar os colaboradores cadastrados
-
----
-
-## ⚙️ Funcionalidades
-- Menu interativo
-- Cadastro de no mínimo 2 colaboradores
-- Uso de ponteiro para manipular struct
-- Cálculo de salário reajustado
-
----
-
-## 🏫 Informações acadêmicas
-- Curso: Análise e Desenvolvimento de Sistemas
-- Semestre: 3º semestre
-- Disciplina: Estruturas de Dados
+## 👨‍💻 Autor
+Rodrigo Diamantino
